@@ -12,7 +12,6 @@ Adicionais
 
 - *velocidade adiconal (Vento?)
 
-
 Motor Movimento tiro (lançamento obliquo)
   - Angulação * velocidade
   - S = So + vt
@@ -36,4 +35,11 @@ Jogabilidade
     while onkeyup spacebar (shoot)
 
 
-  
+Mecânica do terreno:
+ - Dividir o canvas em celulas numeradas em indice
+ - Gerar terreno ****
+ - Armazenar na matriz o tipo do terreno por unidade
+   TODO: Criar resistencias diferentes para terrenos e inclinacoes diferentes
+ - Criar logica de desenho de deformação do terreno ao ser atingido baseado no angulo e velocidade da bala
+
+Geração de terreno:
