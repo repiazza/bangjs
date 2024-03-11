@@ -15,8 +15,11 @@ Motor Movimento tiro:
   - S = So + vt :
     - t = (S - SO) / v 
     - S = So + v * ((S - SO) / v)
-Game loop Motor de Turno + Interação I/O
-Motor do Inimigo PC (maquina)
+
+Game Loop
+ - Motor de Turno 
+ - Interação I/O (Players)
+ - Motor do Inimigo PC/IA(quando houver)
 
 Efeitos:
   - Troca de turno 
