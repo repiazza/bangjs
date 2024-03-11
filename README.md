@@ -10,11 +10,11 @@ Recriação e Atualização do jogo Bang! Bang! do Windows 95
 
 Motor Movimento tiro:
   - Angulação * velocidade
-  [https://www.preparaenem.com/upload/conteudo/images/trajet%C3%B3ria-lancamento-obliquo(1).jpg]
+![movobl](https://www.preparaenem.com/upload/conteudo/images/trajet%C3%B3ria-lancamento-obliquo(1).jpg)
   - Movimento obliquo
   - S = So + vt :
-    => t = (S - SO) / v 
-    => S = So + v * ((S - SO) / v)
+    ° t = (S - SO) / v 
+    ° S = So + v * ((S - SO) / v)
 Game loop Motor de Turno + Interação I/O
 Motor do Inimigo PC (maquina)
 
