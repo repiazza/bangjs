@@ -13,8 +13,8 @@ Motor Movimento tiro:
 ![movobl](https://www.preparaenem.com/upload/conteudo/images/trajet%C3%B3ria-lancamento-obliquo(1).jpg)
   - Movimento obliquo
   - S = So + vt :
-    ° t = (S - SO) / v 
-    ° S = So + v * ((S - SO) / v)
+   |- t = (S - SO) / v 
+   |- S = So + v * ((S - SO) / v)
 Game loop Motor de Turno + Interação I/O
 Motor do Inimigo PC (maquina)
 
